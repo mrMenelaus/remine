@@ -1,0 +1,1 @@
+execute as @e[type=marker,tag=gui] at @s run function gui:core/start

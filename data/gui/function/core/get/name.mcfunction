@@ -1,0 +1,2 @@
+execute as b13258f2-2a5d-4a72-8855-84f8e360d15b run data modify entity @s text set from storage main input
+execute as b13258f2-2a5d-4a72-8855-84f8e360d15b run data modify storage main output set from entity @s text
