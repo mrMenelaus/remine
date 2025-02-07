@@ -1,0 +1,1 @@
+data modify storage main this set from storage main stack[-1]
